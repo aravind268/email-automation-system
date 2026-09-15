@@ -91,6 +91,21 @@ Status = Sent
 
 When the workflow runs again, records with `Sent` status are ignored.
 
+## Screenshots
+
+### n8n Workflow
+
+![n8n Workflow](screenshots/workflow.png)
+
+### Google Sheets
+
+![Google Sheets](screenshots/google-sheet.png)
+
+### Email Notification
+
+![Email Notification](screenshots/email.png)
+
+
 ## Project Structure
 
 ```text
